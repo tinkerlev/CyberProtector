@@ -25,7 +25,6 @@ CyberProtector is an open-source security suite designed to provide comprehensiv
 2. Install the required packages: pip install -r requirements.txt
 
 ## Usage
-
 Provide examples of how to use your project. For instance:
 
 ```python
@@ -41,6 +40,10 @@ Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Please refer to CONTRIBUTING.md for more information.
+# Replace these lines with usage instructions
+# Example:
+python main.py
+
 
 ## License
 
@@ -49,3 +52,16 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 Eliran Luai Deeb - @colorwingsjourneys
 
 Project Link: https://github.com/tinkerlev/CyberProtector
+
+# CyberProtector
+
+## Description
+CyberProtector is a comprehensive security tool designed to enhance protection mechanisms against various threats such as unauthorized access attempts, viruses, and potential breaches. It offers advanced threat detection capabilities, facilitating efficient management of login attempts and safeguarding sensitive data.
+
+## Installation
+Follow these instructions to install CyberProtector on your system:
+
+pip install -r requirements.txt
+
+
+This README provides a clear overview of your project, including what it is, how to set it up, how to use it, and how others can contribute. It's important to fill in the sections with specific details relevant to CyberProtector, such as the correct installation and usage instructions, to ensure users have all the information they need to get started with your tool.
