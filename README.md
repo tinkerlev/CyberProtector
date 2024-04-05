@@ -49,4 +49,3 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 Eliran Luai Deeb - @colorwingsjourneys
 
 Project Link: https://github.com/tinkerlev/CyberProtector
-License Link: https://github.com/tinkerlev/CyberProtector?tab=AGPL-3.0-1-ov-file
