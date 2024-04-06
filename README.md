@@ -57,9 +57,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Author
 
 Eliran Luai Deeb
-
-    Instagram: @colorwingsjourneys
-    LinkedIn
+Instagram: @colorwingsjourney
+LinkedIn:
+https://www.linkedin.com/in/laui-deeb/
 
 Project Link
 
